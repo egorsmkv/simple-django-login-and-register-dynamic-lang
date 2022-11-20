@@ -38,14 +38,14 @@ One difference of this project from https://github.com/egorsmkv/simple-django-lo
 
 ### Clone the project
 
-```
+```bash
 git clone https://github.com/egorsmkv/simple-django-login-and-register-dynamic-lang
 cd simple-django-login-and-register-dynamic-lang
 ```
 
 ### Install dependencies & activate virtualenv
 
-```
+```bash
 pip install pipenv
 
 pipenv install
@@ -60,13 +60,13 @@ pipenv shell
 
 ### Apply migrations
 
-```
+```bash
 python source/manage.py migrate
 ```
 
 ### Collect static files (only on a production server)
 
-```
+```bash
 python source/manage.py collectstatic
 ```
 
@@ -76,6 +76,6 @@ python source/manage.py collectstatic
 
 Just run this command:
 
-```
+```bash
 python source/manage.py runserver
 ```
