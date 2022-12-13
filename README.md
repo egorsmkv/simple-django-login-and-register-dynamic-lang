@@ -39,8 +39,8 @@ One difference of this project from https://github.com/egorsmkv/simple-django-lo
 ### Clone the project
 
 ```bash
-git clone https://github.com/egorsmkv/simple-django-login-and-register-dynamic-lang
-cd simple-django-login-and-register-dynamic-lang
+git clone https://github.com/Prajwal122003/Django
+cd https://github.com/Prajwal122003/Django
 ```
 
 ### Install dependencies & activate virtualenv
