@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "simple-django-login-and-register-dynamic-lang"
-version = "3.6"
+version = "1.0"
 description = "An example of Django project with basic user functionality."
 readme = "README.md"
 authors = ["Yehor Smoliakov <yehors+gh@ukr.net>"]
